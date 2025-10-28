@@ -1,0 +1,7 @@
+pipreqs ./     #将文件用的库放到txt，需安装库pipreqs
+pipenv install #在当前文件的创建虚拟python环境
+exit#可退出
+pipenv shell #进入所在文件的虚拟python环境
+pipenv install pyinstaller #虚拟环境安装打包器
+pyinstaller -F D:\桌面\3.0\src\main.py#打包操作
+pyinstaller -F D:\桌面\3.0\src\main.py
