@@ -6,9 +6,8 @@
 
 一款基于 **PyQt5** 开发的实时心电脉搏监测软件，支持 **串口数据采集、波形可视化、心率计算与数据导出**，适用于心电信号或脉搏信号的实时监测场景。
 
-<p align="center">
-  <img src="assets/demo_waveform.png" alt="波形演示" width="600"/>
-</p>
+
+<img width="3199" height="1888" alt="屏幕截图 2025-10-28 121754" src="https://github.com/user-attachments/assets/2bece32a-f1bb-4bd6-be94-7cd14376924a" />
 
 ---
 
