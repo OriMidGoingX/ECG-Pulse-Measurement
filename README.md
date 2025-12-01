@@ -8,10 +8,10 @@
 
 <img width="3199" height="1888" alt="屏幕截图 2025-10-28 121754" src="https://github.com/user-attachments/assets/2bece32a-f1bb-4bd6-be94-7cd14376924a" />
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8aa1dcf7-89ae-42ff-b9a0-b9b2a7aee633" width="450">
-  <img src="https://github.com/user-attachments/assets/72cb30da-63ad-479c-9557-426c311bb460" width="555">
-</p>
+|  |  |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/8aa1dcf7-89ae-42ff-b9a0-b9b2a7aee633" width="450"> | <img src="https://github.com/user-attachments/assets/72cb30da-63ad-479c-9557-426c311bb460" width="450"> |
+
 
 ---
 
