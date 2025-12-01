@@ -2,19 +2,14 @@
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15%2B-green)](https://riverbankcomputing.com/software/pyqt/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 一款基于 **PyQt5** 开发的实时心电脉搏监测软件，支持 **串口数据采集、波形可视化、心率计算与数据导出**，适用于心电信号或脉搏信号的实时监测场景。
 
 
 <img width="3199" height="1888" alt="屏幕截图 2025-10-28 121754" src="https://github.com/user-attachments/assets/2bece32a-f1bb-4bd6-be94-7cd14376924a" />
-## 实物电路板展示
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/80a14842-61f7-46db-80c0-2cff299e26fe" alt="ECG PCB Board" width="800">
-</p>
-![微信图片_20251105225815_1500_551](https://github.com/user-attachments/assets/aef9b21b-0aef-400d-8841-a10c123d858f)
-
+<img src="https://github.com/user-attachments/assets/8aa1dcf7-89ae-42ff-b9a0-b9b2a7aee633" width="450">
+<img src="https://github.com/user-attachments/assets/72cb30da-63ad-479c-9557-426c311bb460" width="555">
 
 
 ---
@@ -28,7 +23,7 @@
 
 ### 📊 波形实时可视化
 - 高刷新率波形绘制，支持抗锯齿显示
-- 自定义显示窗口（5~20秒）
+- 自定义显示窗口（2~20秒）
 - 自动标记 R 波峰值（绿色圆点）
 - 支持波形垂直平移、缩放及居中重置
   
