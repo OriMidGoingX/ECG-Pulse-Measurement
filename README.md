@@ -8,6 +8,12 @@
 
 
 <img width="3199" height="1888" alt="屏幕截图 2025-10-28 121754" src="https://github.com/user-attachments/assets/2bece32a-f1bb-4bd6-be94-7cd14376924a" />
+## 实物电路板展示
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80a14842-61f7-46db-80c0-2cff299e26fe" alt="ECG PCB Board" width="800">
+</p>
+![微信图片_20251105225815_1500_551](https://github.com/user-attachments/assets/aef9b21b-0aef-400d-8841-a10c123d858f)
 
 
 
